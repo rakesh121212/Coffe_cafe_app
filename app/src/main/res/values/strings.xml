@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Coffee Cafe</string>
+    <string name="rakeshkumarvishu123_gmail_com">rakeshkumarvishu123@gmail.com</string>
+    <string name="passwordsample">**********</string>
+    <string name="user_name">User Name</string>
+    <string name="upload_image">Upload Image</string>
+    <string name="_123_1456780">+123 1456780</string>
+    <string name="mymainactivitypagelogo">Mymainactivitypagelogo</string>
+    <string name="cafe_house">Cafe House</string>
+    <string name="login">LOGIN</string>
+    <string name="register">REGISTER</string>
+    <string name="skip">Skip</string>
+    <string name="or_with">or with</string>
+    <string name="facebook">Facebook</string>
+    <string name="google">Google</string>
+    <string name="already_have_account_login">Already have Account? Login</string>
+    <string name="sign_in">Sign In</string>
+    <string name="want_to_create_account">Want to create Account?</string>
+</resources>
